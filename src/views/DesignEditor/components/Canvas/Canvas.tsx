@@ -14,7 +14,8 @@ const Canvas = () => {
         config={{
           background: "#f1f2f6",
           controlsPosition: {
-            rotation: "BOTTOM",
+            rotation: "TOP",
+            background: "url(https://cdn-icons-png.flaticon.com/512/660/660026.png)",
           },
           shadow: {
             blur: 4,
